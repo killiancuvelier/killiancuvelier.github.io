@@ -94,7 +94,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%63%75%76%65%6C%69%65%72%6B%69%6C%6C%69%61%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%63%75%76%65%6C%69%65%72%6B%69%6C%6C%69%61%6E@%75%6C%62.%62%65", "_blank");
         },
       },{
         id: 'social-rss',
@@ -116,6 +116,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/killiancuvelier", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/killian-cuvelier-739996260", "_blank");
         },
       },{
       id: 'light-theme',
