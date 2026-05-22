@@ -1,10 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-email: cuvelierkillian@gmail.com # your email address
+email: cuvelierkillian@ulb.be # your email address
 rss_icon: true # comment this line to hide the RSS icon
 cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 # scholar_userid: # your Google Scholar ID — add when you have a profile
 github_username: killiancuvelier
-# linkedin_username: # your LinkedIn username — add when ready
+linkedin_username: killian-cuvelier-739996260
 # inspirehep_id: # Inspire HEP author ID — leave commented for now (economics, not physics)
