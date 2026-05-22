@@ -5,6 +5,6 @@ email: cuvelierkillian@gmail.com # your email address
 rss_icon: true # comment this line to hide the RSS icon
 # cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file — uncomment when you have a CV to upload
 # scholar_userid: # your Google Scholar ID — add when you have a profile
-# github_username: killiancuvelier # uncomment to display GitHub link
+github_username: killiancuvelier
 # linkedin_username: # your LinkedIn username — add when ready
 # inspirehep_id: # Inspire HEP author ID — leave commented for now (economics, not physics)
