@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Teaching and tutoring experience at Solvay Brussels School of Economics and Management (ULB).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "Curriculum Vitae — Killian Cuvelier",
