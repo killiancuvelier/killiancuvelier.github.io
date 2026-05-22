@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Academic projects in economics, econometrics, and empirical research.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -64,6 +64,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-micro-econometrics-socio-economic-and-behavioural-factors-influence-on-sleep",
+          title: 'Micro-econometrics: Socio-economic and Behavioural Factors Influence on Sleep',
+          description: "Analysis of socio-economic and behavioural factors on sleep duration. The study examined whether working habits, family structure, and personal characteristics significantly affect individual sleep behaviour.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/econometrics/";
+            },},{id: "projects-replication-bloom-et-al-2015-does-management-matter-in-schools",
+          title: 'Replication: Bloom et al. (2015), Does Management Matter in Schools?',
+          description: "Full replication of the OLS specification linking student achievement to management quality. Extended with an OLS specification linking management quality to principal characteristics using data from the World Management Survey.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ire/";
+            },},{id: "projects-dérouler-les-prix-discrimination-sur-le-marché-européen-du-papier-toilette",
+          title: 'Dérouler les Prix : Discrimination sur le Marché Européen du Papier Toilette',
+          description: "Hedonic price analysis of the European toilet paper market based on an original dataset of 1100 references collected by ourselves. Implemented a sequential decomposition of the structural and non-structural component of price residuals.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/seminaire/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
@@ -87,6 +102,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/killiancuvelier", "_blank");
         },
       },{
       id: 'light-theme',
