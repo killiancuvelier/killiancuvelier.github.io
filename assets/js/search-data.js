@@ -94,14 +94,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%63%75%76%65%6C%69%65%72%6B%69%6C%6C%69%61%6E@%75%6C%62.%62%65", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%6B%69%6C%6C%69%61%6E.%63%75%76%65%6C%69%65%72@%75%6C%62.%62%65", "_blank");
         },
       },{
         id: 'social-cv',
