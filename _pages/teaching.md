@@ -15,7 +15,7 @@ published: true
 Past-exam review sessions under the supervision of Prof. P.-G. Méon.
 
 **Guidance Sets and Corrections:**
-[Exercise Set 1](/assets/pdf/teaching/exos_tp1_examrecap_devs.pdf) · [Exercise Set 2](/assets/pdf/teaching/exos_tp2_examrecap_devs.pdf) · [Exercise Set 3](/assets/pdf/teaching/exos_tp3_examrecap_devs.pdf) · [Exercise Set 4](/assets/pdf/teaching/exos_tp4_examrecap_devs.pdf) · [Exercise Set 5](/assets/pdf/teaching/exos_tp5_examrecap_devs.pdf) · [Exercise Set 6](/assets/pdf/teaching/exos_tp6_examrecap_devs.pdf) · [Exercise Set 7](/assets/pdf/teaching/exos_tp7_examrecap_devs.pdf)
+[Exercise Set 1](/assets/pdf/teaching/macro-exos-tp1.pdf) · [Exercise Set 2](/assets/pdf/teaching/macro-exos-tp2.pdf) · [Exercise Set 3](/assets/pdf/teaching/macro-exos-tp3.pdf) · [Exercise Set 4](/assets/pdf/teaching/macro-exos-tp4.pdf) · [Exercise Set 5](/assets/pdf/teaching/macro-exos-tp5.pdf) · [Exercise Set 6](/assets/pdf/teaching/macro-exos-tp6.pdf) · [Exercise Set 7](/assets/pdf/teaching/macro-exos-tp7.pdf)
 
 ### ECON-S2001 Analysis of Contemporary Economic Issues
 
@@ -23,15 +23,15 @@ Technical tutorials under the supervision of Prof. J.-P. De Laet and Prof. P. Us
 
 **Guidance Sessions:**
 
-- [Guidance 1 — Practical Sessions and Presentation Skills](/assets/pdf/teaching/ACEI%20Guidance%201%20Practical%20Sessions%20and%20Presentation%20Skills.pdf)
-- [Guidance 2 — Patterns of World Trade, Migration and FDI](/assets/pdf/teaching/ACEI%20Guidance%202%20Patterns%20of%20World%20Trade%20Migration%20and%20FDI.pdf)
-- [Guidance 3 — The European Green Deal (Part 1)](/assets/pdf/teaching/ACEI%20Guidance%203%20The%20European%20Green%20Deal%20Part%201.pdf)
-- [Guidance 4 — Conference: National Bank of Belgium](/assets/pdf/teaching/ACEI%20Guidance%204%20Conference%201%20NBB.pdf)
-- [Guidance 5 — The European Green Deal (Part 2)](/assets/pdf/teaching/ACEI%20Guidance%205%20The%20European%20Green%20Deal%20Part%202.pdf)
-- [Guidance 6 — Long-term Investors and the Green Transition](/assets/pdf/teaching/ACEI%20Guidance%206%20Long_term%20investors%20and%20the%20green%20transition.pdf)
-- [Guidance 7 — WFH and COVID-19: Labor and Housing Market Impact](/assets/pdf/teaching/ACEI%20Guidance%207%20Working%20from%20home%20and%20COVID%2019-labor%20market%20and%20housing%20market%20impact.pdf)
-- [Guidance 8 — Tax Policy](/assets/pdf/teaching/ACEI%20Guidance%208%20Tax%20policy.pdf)
-- [Guidance 9 — Competition Policy](/assets/pdf/teaching/ACEI%20Guidance%209%20Competition%20Policy.pdf)
+- [Guidance 1 — Practical Sessions and Presentation Skills](/assets/pdf/teaching/ACEI-Guidance-1-Practical-Sessions-and-Presentation-Skills.pdf)
+- [Guidance 2 — Patterns of World Trade, Migration and FDI](/assets/pdf/teaching/ACEI-Guidance-2-Patterns-of-World-Trade-Migration-and-FDI.pdf)
+- [Guidance 3 — The European Green Deal (Part 1)](/assets/pdf/teaching/ACEI-Guidance-3-The-European-Green-Deal-Part-1.pdf)
+- [Guidance 4 — Conference: National Bank of Belgium](/assets/pdf/teaching/ACEI-Guidance-4-Conference-NBB.pdf)
+- [Guidance 5 — The European Green Deal (Part 2)](/assets/pdf/teaching/ACEI-Guidance-5-The-European-Green-Deal-Part-2.pdf)
+- [Guidance 6 — Long-term Investors and the Green Transition](/assets/pdf/teaching/ACEI-Guidance-6-Long-term-Investors-and-the-Green-Transition.pdf)
+- [Guidance 7 — WFH and COVID-19: Labor and Housing Market Impact](/assets/pdf/teaching/ACEI-Guidance-7-WFH-and-COVID-19-Labor-and-Housing-Market-Impact.pdf)
+- [Guidance 8 — Tax Policy](/assets/pdf/teaching/ACEI-Guidance-8-Tax-Policy.pdf)
+- [Guidance 9 — Competition Policy](/assets/pdf/teaching/ACEI-Guidance-9-Competition-Policy.pdf)
 
 ### STAT-S272 Probability, Statistical Inference and Operations Research
 
